@@ -57,5 +57,9 @@ c. Rainy Weather
 
 ![image](https://user-images.githubusercontent.com/85211871/162398044-1dfb39cc-a8be-4435-9652-0e7c130ff92d.png)
 
+## Acknowledgment
+
+This project was completed as a collaborative academic project with permission from the original author. I studied and worked with the implementation and can explain the complete lane detection pipeline.
+
 ## Conclusion
 In this lane line detection project, before detecting lane lines, we masked unnecessary objects and then identified the line with Hough transformation. The ROI-setting algorithm significantly reduced processing time. When the ROI is prioritised for optimization, not only the system's real-time performance increased, but it also maintained a high level of robustness.
